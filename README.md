@@ -11,6 +11,6 @@ The tool implemented LLM model [Llama-3-ELYZA-JP-8B-GGUF](https://huggingface.co
 2. Run `python main.py`
 3. To upload PDF, type "PDF " then paste relative paths of the files. Make sure the files are in the same folder as the python file.
 
-##Referemces
+## Referemces
 
 - Masato Hirakawa, Shintaro Horie, Tomoaki Nakamura, Daisuke Oba, Sam Passaglia, Akira Sasaki. [elyza/Llama-3-ELYZA-JP-8B](https://huggingface.co/elyza/Llama-3-ELYZA-JP-8B), 2024.
