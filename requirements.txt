@@ -1,0 +1,9 @@
+ollama
+pdfplumber
+sentence-transformers 
+scikit-learn 
+langchain-community
+langchain-ollama
+langchain-chroma
+pandas
+pypdf
